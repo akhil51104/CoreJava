@@ -20,7 +20,7 @@ public class BankAccount {
 		
 		B.Deposit(500);
 		B.Withdraw(300);
-		System.out.println("Balance Amount : "+Balance);
+		System.out.println("Remaining Balance Amount : "+Balance);
 	
 		
 	}
